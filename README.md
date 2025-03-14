@@ -74,7 +74,7 @@ Application chat/
 ### Interface Client 2
 <img src="Captures/Client2.png">
 
-*L'utilisateur entre son nom et se connecte. Les messages apparaissent une seule fois (formatés par le serveur) sans duplication.*
+*L'utilisateur entre son nom et se connecte. Les messages sont affichés au fur et à mesure de leur réception depuis le serveur.*
 
 ## Flux de Connexion
 
